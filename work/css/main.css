@@ -1,0 +1,84 @@
+html
+{
+	background: url("../image/bk.gif") repeat;
+}
+body 
+{
+    list-style: none outside none;
+    color: #333333;
+    font-family: "微软雅黑","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    margin: 0;
+    min-height: 600px;
+}
+
+#header {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+    clear: both;
+    height: 38px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+#header .header-bar {
+    background: url("../image/header_bg.png") repeat-x scroll 0 0 #a60100;
+}
+#header .header-bar #logo
+{
+    margin-left: 150px;
+}
+#container
+{
+    margin-top: 48px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+}
+#container .menu
+{
+    float: left;
+    margin-left: -70px;
+    position: fixed;
+    width: 70px;
+}
+#container .main 
+{
+    float: left;
+}
+.main .content
+{
+    float: left;
+}
+.main .side
+{
+    float: right;
+}
+ul 
+{
+    list-style: none outside none;
+}
+li
+{
+    line-height: 15px;
+}
+a
+{
+    color: #112233;
+    text-decoration: none;
+}
+.menu ul
+{
+    margin-left: -40px;
+    padding-left: auto;
+    padding-right: auto;
+}
+.menu ul li a
+{
+    font-family: "微软雅黑","华文细黑","宋体",sans-serif;
+    display: block;
+    margin: 12px 0 15px 0;
+    font-size: 20px;
+    
+}
