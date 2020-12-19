@@ -100,14 +100,14 @@
   </url>
   
   <url>
-    <loc>http://cjhgo.github.io/categories/shortcodes/</loc>
+    <loc>http://cjhgo.github.io/tags/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://cjhgo.github.io/tags/shortcodes/</loc>
+    <loc>http://cjhgo.github.io/categories/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -172,6 +172,13 @@
   <url>
     <loc>http://cjhgo.github.io/tags/tag-11/</loc>
     <lastmod>2018-03-01T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://cjhgo.github.io/post/2020-12-20/</loc>
+    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -310,14 +317,14 @@
   </url>
   
   <url>
-    <loc>http://cjhgo.github.io/tags/syntax-highlighting/</loc>
+    <loc>http://cjhgo.github.io/categories/syntax-highlighting/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://cjhgo.github.io/categories/syntax-highlighting/</loc>
+    <loc>http://cjhgo.github.io/tags/syntax-highlighting/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -335,11 +342,6 @@
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://cjhgo.github.io/post/2020-12-20/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
