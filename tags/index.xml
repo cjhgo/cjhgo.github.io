@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Mar 2019 16:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 19 Dec 2020 15:43:48 +0800</lastBuildDate>
     
 	<atom:link href="http://cjhgo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>English</title>
+      <link>http://cjhgo.github.io/tags/english/</link>
+      <pubDate>Sat, 19 Dec 2020 15:43:48 +0800</pubDate>
+      
+      <guid>http://cjhgo.github.io/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>preview</title>
+      <link>http://cjhgo.github.io/tags/preview/</link>
+      <pubDate>Sat, 19 Dec 2020 15:43:48 +0800</pubDate>
+      
+      <guid>http://cjhgo.github.io/tags/preview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag-2</title>
+      <link>http://cjhgo.github.io/tags/tag-2/</link>
+      <pubDate>Sat, 19 Dec 2020 15:43:48 +0800</pubDate>
+      
+      <guid>http://cjhgo.github.io/tags/tag-2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>math</title>
@@ -17,15 +44,6 @@
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
       
       <guid>http://cjhgo.github.io/tags/math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>preview</title>
-      <link>http://cjhgo.github.io/tags/preview/</link>
-      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
-      
-      <guid>http://cjhgo.github.io/tags/preview/</guid>
       <description></description>
     </item>
     
@@ -89,24 +107,6 @@
       <pubDate>Thu, 01 Mar 2018 16:01:23 +0800</pubDate>
       
       <guid>http://cjhgo.github.io/tags/tag-11/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>English</title>
-      <link>http://cjhgo.github.io/tags/english/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>http://cjhgo.github.io/tags/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tag-2</title>
-      <link>http://cjhgo.github.io/tags/tag-2/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>http://cjhgo.github.io/tags/tag-2/</guid>
       <description></description>
     </item>
     
