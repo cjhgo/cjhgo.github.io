@@ -6,7 +6,7 @@
     <description>Recent content on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Dec 2020 15:43:48 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 20 Dec 2020 14:45:34 +0800</lastBuildDate>
     
         <atom:link href="http://cjhgo.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -404,6 +404,20 @@ __double underscores__
 &lt;/ul&gt;
 
 &lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://cjhgo.github.io/post/my-first-post/</link>
+      <pubDate>Sun, 20 Dec 2020 14:45:34 +0800</pubDate>
+      
+      <guid>http://cjhgo.github.io/post/my-first-post/</guid>
+      
+        <description>&lt;p&gt;til&lt;/p&gt;
+
+&lt;p&gt;how to create a blog&lt;/p&gt;
 </description>
       
     </item>
